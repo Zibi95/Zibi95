@@ -7,8 +7,6 @@
 🌱   I’m currently learning React library and how to contribute to first open source project.
 
 
-![(https://www.linkedin.com/in/sylwester-sobczak-b03531184/)](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedinb&logoColor=white)
-
 
 
 
