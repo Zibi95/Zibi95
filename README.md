@@ -1,6 +1,6 @@
-![HiForrestGIF (2)](https://user-images.githubusercontent.com/78635631/217573532-4c59da35-acfd-4adb-bca8-8df700b0c23a.gif)
+                 ![HiForrestGIF (2)](https://user-images.githubusercontent.com/78635631/217573532-4c59da35-acfd-4adb-bca8-8df700b0c23a.gif)
 
-🙋‍♂️ My name is Sylwester Sobczak. I live in Poland, and I'm studying electrical engineering. During my studies I started to learn programming. My journey began with JS, since I want to become a front end developer. Currently I'm working, studying and taking my first steps in programming.
+🙋‍♂️   My name is Sylwester Sobczak. I live in Poland, and I'm studying electrical engineering. During my studies I started to learn programming. My journey began with JS, since I want to become a front end developer. Currently I'm working, studying and taking my first steps in programming.
 
 
 <!--
