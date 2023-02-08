@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![HiForrestGIF (2)](https://user-images.githubusercontent.com/78635631/217573532-4c59da35-acfd-4adb-bca8-8df700b0c23a.gif)
+
 
 <!--
 **Zibi95/Zibi95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
