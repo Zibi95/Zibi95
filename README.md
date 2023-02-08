@@ -7,7 +7,7 @@
 🌱   I’m currently learning React library and how to contribute to first open source project.
 
 
-![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=Linkedinb&logoColor=white)]
+![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedinb&logoColor=white)
 
 
 
