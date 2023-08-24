@@ -7,8 +7,8 @@ Web developer
 I'm studying electrical engineering. During my studies I started to learn programming. My journey began with JS, since I want to become a front end developer.
 
 * 🌍  I'm based in Gdańsk
-* ✉️  You can contact me at [sylwester.sob95@gmail.com](mailto:sylwester.sob95@gmail.com)
-* 🧠  I'm learning React
+* ✉️  You can contact me at [sylwester.sobczaak@gmail.com](mailto:sylwester.sobczaak@gmail.com)
+* 🧠  I'm learning Node.js & Express
 * 🤝  I'm open to collaborating on Projects
 * ⚡  "Experience is what you get when you don't get what you wanted" Ann Landers
 
